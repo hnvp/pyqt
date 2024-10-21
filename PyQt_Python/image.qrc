@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="image">
+    <file>aico_off.png</file>
+    <file>ai_chan.png</file>
+    <file>aico_on.png</file>
+    <file>door_close.png</file>
+    <file>door_open.png</file>
+    <file>tivi_off.png</file>
+    <file>tivi_on.png</file>
+    <file>tivi_off.png</file>
+  </qresource>
+</RCC>
